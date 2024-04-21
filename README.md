@@ -13,5 +13,5 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
     -  Be sure to create the tables in the correct order to handle the foreign keys.
 
   2.  Import each CSV file into its corresponding SQL table.
-  3.  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
