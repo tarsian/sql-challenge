@@ -1,3 +1,11 @@
+-- Dropping existing tables
+DROP TABLE departments;
+DROP TABLE employees;
+DROP TABLE dept_emp;
+DROP TABLE dept_manager;
+DROP TABLE salaries;
+DROP TABLE titles;
+
 -- Create the schemata for the tables
 CREATE TABLE departments(
 	dept_no VARCHAR(5) PRIMARY KEY,
