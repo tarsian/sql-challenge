@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿title_id,title
 s0001,Staff
 s0002,Senior Staff
@@ -5,4 +6,13 @@ e0001,Assistant Engineer
 e0002,Engineer
 e0003,Senior Engineer
 e0004,Technique Leader
+=======
+﻿title_id,title
+s0001,Staff
+s0002,Senior Staff
+e0001,Assistant Engineer
+e0002,Engineer
+e0003,Senior Engineer
+e0004,Technique Leader
+>>>>>>> aaf2d6877b390e50b8234b71d3e8710b8cc9c300
 m0001,Manager
